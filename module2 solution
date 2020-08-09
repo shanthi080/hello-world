@@ -1,0 +1,13 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>http://myGitHubID.github.io/hello-world/module2-solution</title>
+</head>
+
+<body>
+	<h1>Our Menu</h1>
+	<p id="p1">Chicken</p>
+	<p id="p2">Beef</p>
+	<p id="p3">Sushi</p>
+</body>
